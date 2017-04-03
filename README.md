@@ -13,8 +13,8 @@ Requirements (Python27):
    
    Syntax
 
-    python replacelapse.py <Start Index> <Delay(seconds)>
+    python rplacelapse.py <Start Index> <Delay(seconds)>
    Ex:
    
 
-    python replacelapse.py 1 5
+    python rplacelapse.py 1 5
